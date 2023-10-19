@@ -1,5 +1,5 @@
 # sleep_efficiency
-ML Predictions for Sleep Efficiency Data Analysis
+Machine Learning Predictions for Sleep Efficiency Data Analysis
 
 This project aims to make predictions on a sleep efficiency dataset. After performing data preprocessing techniques, machine learning algorithms were run pertaining to regression and classification. The primary objectives of this project are to determine which level of sleep patients are more likely to experience throughout their 8-hour sleep cycle.
 
